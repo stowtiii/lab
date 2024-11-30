@@ -1,5 +1,11 @@
 {
-    "users":{
-        
-    }
+    "users":[
+        {
+        "id": 1,
+        "name": "Anastasia",
+        "surname": "Kovalova",
+        "photo_url": "https://lh3.googleusercontent.com/proxy/l2jRtfhKlX6FMj_HnNx_ku2bFg8BndYOuR4mFRl8htNacOQSmjSoalS-YfdPxbgQTFb6jY7q7ptq3BsWts0IcB-Kif6tdtxnaxREWw",
+        "balance": 1500
+        }
+    ]
 }
