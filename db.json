@@ -1,5 +1,11 @@
 {
-    "users":{
-        
-    }
+    "users":[
+        {
+        "id":2,
+        "name": "Sasha",
+        "surname": "Androsov",
+        "photo_url": "https://www.google.com/imgres?q=makvin&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fru%2Fe%2Fe7%2F%25D0%259C%25D0%25BE%25D0%25BB%25D0%25BD%25D0%25B8%25D1%258F_%25D0%259C%25D0%25B0%25D0%25BA%25D0%25BA%25D1%2583%25D0%25B8%25D0%25BD.png&imgrefurl=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259C%25D0%25BE%25D0%25BB%25D0%25BD%25D0%25B8%25D1%258F_%25D0%259C%25D0%25B0%25D0%25BA%25D0%25BA%25D1%2583%25D0%25B8%25D0%25BD&docid=XYfGbTI1GNmwBM&tbnid=vfGcj6v0_lR13M&vet=12ahUKEwiUlsyCsISKAxVwFBAIHXBGAMkQM3oECBUQAA..i&w=550&h=301&hcb=2&ved=2ahUKEwiUlsyCsISKAxVwFBAIHXBGAMkQM3oECBUQAA",
+        "balance": 2000000000000000
+        }
+    ]
 }
